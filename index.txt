@@ -1,1 +1,2 @@
-my first git linking file.
+my first git linking file
+but iam having some trouble
